@@ -1,0 +1,53 @@
+ID,Lacteos,Marca,Precio,Inventario,Grasa,Proteina
+1,Leche,Dolores,104.63,13,20.8,1.86
+2,Leche,Granjas sur,90.34,7,2.28,4.25
+3,Yogurt,Yoplay,53.23,9,10.6,2.77
+4,Queso seco,Lala,49.52,19,13.07,2.83
+5,Queso crema,Alpura,37.13,30,10.33,4.6
+6,Crema batida,Al despertar,112.34,31,20.81,2.71
+7,Queso panela,Yoplay,99.16,1,1.77,3
+8,Crema,La vaquita,89.99,28,14.29,3.79
+9,Queso ricota,Lala,94.47,42,15.18,3.11
+10,Yogurt,La vaquita,77.96,31,5.83,4.34
+11,Queso panela,Granjas sur,69.55,4,15.26,3.12
+12,Queso crema,La vaquita,61.16,5,17.11,3.18
+13,Queso panela,Yoplay,64.4,14,2.52,2.86
+14,Leche,Yoplay,85.85,25,8.97,2.02
+15,Crema,Alpura,72.46,7,17.61,3.53
+16,Yogurt,Granjas sur,41.69,19,14.63,2.23
+17,Crema,Rocio,68.57,20,15.64,1.49
+18,Mantequilla,Granjas sur,73.62,20,11.51,3.64
+19,Queso panela,Rocio,60.97,23,2.01,3.02
+20,Crema batida,Granjas sur,53.61,24,11.49,3.33
+21,Queso panela,Al despertar,99.03,18,17.41,3.2
+22,Queso ricota,Rocio,72.47,40,4.34,1.03
+23,Crema,Lala,40.35,19,9.55,3.18
+24,Leche,Dolores,33.42,4,7.06,3.48
+25,Crema,La vaquita,82.61,41,3.98,4.76
+26,Queso crema,Yoplay,99.28,14,6.78,1.85
+27,Leche,Familia Berta,70.73,25,3.1,1.19
+28,Queso ricota,Alpura,64.16,25,9.76,1.69
+29,Crema,Yoplay,118.13,13,11.47,2.81
+30,Crema batida,Alpura,62.59,9,22.07,4.8
+31,Queso seco,Lala,36.58,36,13.59,2.6
+32,Queso ricota,Al despertar,76.21,33,21.89,2.82
+33,Crema batida,Rocio,51.67,28,4.89,1.98
+34,Yogurt,Dolores,96.22,28,15.8,4.43
+35,Queso seco,Rocio,89.05,16,21.03,1.32
+36,Queso crema,Lala,35.48,30,4.24,4.12
+37,Queso ricota,La vaquita,52.57,30,4.96,2.63
+38,Yogurt,Granjas sur,76.08,39,20.36,4.18
+39,Queso fresco,Yoplay,75.37,40,2.76,4.95
+40,Queso seco,Familia Berta,114.47,11,2.09,4.5
+41,Mantequilla,Familia Berta,84.38,38,16.46,1.12
+42,Queso panela,La vaquita,50.25,50,17.04,1.18
+43,Queso panela,Rocio,52.07,9,12.53,4.76
+44,Yogurt,La vaquita,32.04,21,9.88,4.33
+45,Mantequilla,Al despertar,88.15,45,10.33,4.51
+46,Crema,Lala,69.79,32,14.95,4.3
+47,Mantequilla,Al despertar,39.98,48,7.87,4.31
+48,Yogurt,Lala,78.06,19,15.92,1.17
+49,,Yoplay,119.74,39,16.9,2.73
+50,,,,,,
+51,,,,,,
+52,,,,,,
